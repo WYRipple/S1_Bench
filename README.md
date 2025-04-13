@@ -14,10 +14,10 @@ Before running our code, download the open-source LRMs.
 |---|---|---|
 | DeepSeek-R1-Distill-Qwen-1.5B | DS-R1-1.5B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B |
 | DeepSeek-R1-Distill-Qwen-7B | DS-R1-7B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B |
-| DeepSeek-R1-Distill-Qwen-8B | DS-R1-8B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B |
+| DeepSeek-R1-Distill-Llama-8B | DS-R1-8B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B |
 | DeepSeek-R1-Distill-Qwen-14B | DS-R1-14B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B |
 | DeepSeek-R1-Distill-Qwen-32B | DS-R1-32B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B |
-| DeepSeek-R1-Distill-Qwen-70B | DS-R1-70B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B|
+| DeepSeek-R1-Distill-Llama-70B | DS-R1-70B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B|
 | DeepSeek-R1 | DS-R1 | https://huggingface.co/deepseek-ai/DeepSeek-R1 |
 | Light-R1-7B-DS | L-R1-7B-DS | https://huggingface.co/qihoo360/Light-R1-7B-DS |
 | Light-R1-14B-DS | L-R1-14B-DS | https://huggingface.co/qihoo360/Light-R1-14B-DS |
