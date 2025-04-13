@@ -34,3 +34,35 @@ Before running our code, download the open-source LRMs.
 | Sky-T1-32B-Flash | Sky-T1-32B | https://huggingface.co/NovaSky-AI/Sky-T1-32B-Flash |
 
 ---
+
+Fill in the path of the open-source model in the `local_model_list` of `get_LRM_vllm_response.py`.
+
+Execute `get_LRM_vllm_response.py` and run all LRMs by switching `model_list[i]`.
+
+```
+python get_LRM_vllm_response.py
+```
+
+Next, run `split_think_answer.py` to obtain the several format types of the LRMs' responses.
+
+```
+python split_think_answer.py
+```
+
+Run the evaluation script `get_LRM_eval.py` to invoke GPT-4o for evaluating the final answers of the LRMs.
+
+```
+python get_LRM_eval.py
+```
+
+Finally, run `get_acc_scores.py` to obtain the evaluation results.
+
+```
+python get_acc_scores.py
+```
+
+## Experiment Results
+
+![](fig/exp_main.png) 
+
+![](fig/exp_tokens.png) 
