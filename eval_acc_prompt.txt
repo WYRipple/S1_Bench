@@ -1,0 +1,16 @@
+**Question:** 
+{question}
+
+**Model Answer:**
+{model_answer}
+
+**Ground Truth:** 
+{ground_truth}
+
+Your task is to evaluate whether the model's answer is correct. 
+An answer is considered correct as long as it contains the ground truth (regardless of how complex or detailed the description is).
+If there are parenthetical notes after the ground truth, then there may be multiple correct answers. In this case, the given answer is just one example, and any answer that meets the requirements specified in the notes can be considered correct.
+Additionally, some reasonably uncertain supplementary information is also considered appropriate, including more details, possibilities, and expanded discussion. You should focus more on whether the reply contains the correct answer.
+
+You need to output a standard JSON, providing your explanation of the evaluation in the "explain" field, and giving the evaluation result in the "result" field, where 1 means the answer is correct and 0 means it is incorrect.
+Your action should follow the given format: {{"explain": "", "result": 0/1}}

@@ -1,0 +1,12 @@
+Given a string, rewrite it in the following format:
+```json
+{{"explain": "", "result": 0/1}}
+```
+
+Given string:
+{llm_response}
+
+**Note:**
+- If the content after `explain` contains double quotes, such as " or \" (excluding the outermost double quotes), change all of them to single quotes '.
+
+Output the rewritten string:
