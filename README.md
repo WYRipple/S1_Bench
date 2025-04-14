@@ -1,6 +1,6 @@
 # S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models
 
-![](fig/intro_fig.png) 
+![](figure/intro_fig.png) 
 
 ## News
 - [2025/04/13] 📢 We released S1-Bench dataset hosted on [Huggingface](https://huggingface.co/datasets/WYRipple/S1-Bench).
@@ -63,6 +63,6 @@ python get_acc_scores.py
 
 ## Experiment Results
 
-![](fig/exp_main.png) 
+![](figure/exp_main.png) 
 
-![](fig/exp_tokens.png) 
+![](figure/exp_tokens.png) 
