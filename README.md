@@ -1,4 +1,4 @@
-# S1-Bench: Exposing System 1 Thinking Barriers of Large Reasoning Models
+# S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models
 
 ![](fig/intro_fig.png) 
 
