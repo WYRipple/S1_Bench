@@ -3,7 +3,7 @@
 ![](figure/intro_fig.png) 
 
 ## News
-- [2025/04/15] 🚀 The paper is now publicly available on [arXiv](https://arxiv.org/abs/2504.10368) and [Huggingface Daily Papers](https://huggingface.co/papers/2504.10368).
+- [2025/04/15] 🚀 The paper is now publicly available on [arXiv](https://arxiv.org/abs/2504.10368), [alphaxiv](https://www.alphaxiv.org/abs/2504.10368) and [Huggingface Daily Papers](https://huggingface.co/papers/2504.10368).
 - [2025/04/13] 📢 We released S1-Bench dataset hosted on [Huggingface](https://huggingface.co/datasets/WYRipple/S1-Bench).
 - [2025/04/13] We released our code source.
 
@@ -71,7 +71,7 @@ python get_acc_scores.py
 ## Citation
 If you find our work useful, please consider citing our paper:
 ```bibtex
-@article{zhang2025s1bench,
+@article{zhang2025s1,
   title={S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models},
   author={Zhang, Wenyuan and Nie, Shuaiyi and Zhang, Xinghua and Zhang, Zefeng and Liu, Tingwen},
   journal={arXiv preprint arXiv:2504.10368},
