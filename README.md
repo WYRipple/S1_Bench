@@ -71,10 +71,13 @@ python get_acc_scores.py
 ## Citation
 If you find our work useful, please consider citing our paper:
 ```bibtex
-@article{zhang2025s1,
-  title={S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models},
-  author={Zhang, Wenyuan and Nie, Shuaiyi and Zhang, Xinghua and Zhang, Zefeng and Liu, Tingwen},
-  journal={arXiv preprint arXiv:2504.10368},
-  year={2025}
+@misc{zhang2025s1benchsimplebenchmarkevaluating,
+      title={S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models}, 
+      author={Wenyuan Zhang and Shuaiyi Nie and Xinghua Zhang and Zefeng Zhang and Tingwen Liu},
+      year={2025},
+      eprint={2504.10368},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.10368}, 
 }
 ```
