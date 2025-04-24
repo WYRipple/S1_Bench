@@ -1,9 +1,25 @@
 # S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models
 
+<div align="center">
+  <a href="https://huggingface.co/datasets/WYRipple/S1-Bench"><img alt="HuggingFace"
+    src="https://img.shields.io/badge/Hugging_Face-S1--Bench-yellow?logo=huggingface"
+    "/></a>
+  <a href="https://arxiv.org/abs/2504.10368"><img alt="Arxiv"
+    src="https://img.shields.io/badge/arxiv-paper-red?logo=arxiv"
+    g"/></a>
+  <a href="https://modelscope.cn/datasets/WYRipper/S1-Bench"><img alt="modelscope"
+    src="https://img.shields.io/badge/ModelScope-624BFF"
+    g"/></a>
+  <a href="https://hub.opencompass.org.cn/dataset-detail/S1-Bench"><img alt="opencompass"
+    src="https://img.shields.io/badge/OpenCompass-1B3883"
+    g"/></a>
+</div>
+
+
 ![](figure/intro_fig.png) 
 
 ## News
-- [2025/04/24] 📢 We released S1-Bench dataset hosted on [ModelScope](https://modelscope.cn/datasets/WYRipper/S1-Bench).
+- [2025/04/24] 📢 We released S1-Bench dataset hosted on [ModelScope](https://modelscope.cn/datasets/WYRipper/S1-Bench) and [OpenCompass](https://hub.opencompass.org.cn/dataset-detail/S1-Bench).
 - [2025/04/15] 🚀 The paper is now publicly available on [arXiv](https://arxiv.org/abs/2504.10368), [alphaxiv](https://www.alphaxiv.org/abs/2504.10368) and [Huggingface Daily Papers](https://huggingface.co/papers/2504.10368).
 - [2025/04/13] 📢 We released S1-Bench dataset hosted on [Huggingface](https://huggingface.co/datasets/WYRipple/S1-Bench).
 - [2025/04/13] We released our code source.
