@@ -16,7 +16,7 @@
 </div>
 
 
-![](figure/intro_fig.png) 
+![](figure/intro_new.png) 
 
 ## News
 - [2025/04/24] 📢 We released S1-Bench dataset hosted on [ModelScope](https://modelscope.cn/datasets/WYRipper/S1-Bench) and [OpenCompass](https://hub.opencompass.org.cn/dataset-detail/S1-Bench).
