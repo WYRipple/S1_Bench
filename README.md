@@ -30,6 +30,13 @@ Before running our code, download the open-source LRMs.
 
 | **Model ID** | **Abbreviation** | **URL** |
 |---|---|---|
+| Qwen3-1.7B | Qwen3-1.7B | https://huggingface.co/Qwen/Qwen3-1.7B |
+| Qwen3-8B | Qwen3-8B | https://huggingface.co/Qwen/Qwen3-8B |
+| Qwen3-14B | Qwen3-14B | https://huggingface.co/Qwen/Qwen3-14B |
+| Qwen3-32B | Qwen3-32B | https://huggingface.co/Qwen/Qwen3-32B |
+| Qwen3-30B-A3B | Qwen3-30B-A3B | https://huggingface.co/Qwen/Qwen3-30B-A3B |
+| Qwen3-235B-A22B | Qwen3-235B-A22B | https://huggingface.co/Qwen/Qwen3-235B-A22B |
+| Qwen3-32B | Qwen3-32B | https://huggingface.co/Qwen/Qwen3-32B |
 | DeepSeek-R1-Distill-Qwen-1.5B | DS-R1-1.5B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B |
 | DeepSeek-R1-Distill-Qwen-7B | DS-R1-7B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B |
 | DeepSeek-R1-Distill-Llama-8B | DS-R1-8B | https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B |
