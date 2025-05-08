@@ -19,6 +19,7 @@
 ![](figure/intro_new.png) 
 
 ## News
+- [2025/05/08] 🔥 The evaluation results of Qwen3 have been added!
 - [2025/04/24] 📢 We released S1-Bench dataset hosted on [ModelScope](https://modelscope.cn/datasets/WYRipper/S1-Bench) and [OpenCompass](https://hub.opencompass.org.cn/dataset-detail/S1-Bench).
 - [2025/04/15] 🚀 The paper is now publicly available on [arXiv](https://arxiv.org/abs/2504.10368), [alphaxiv](https://www.alphaxiv.org/abs/2504.10368) and [Huggingface Daily Papers](https://huggingface.co/papers/2504.10368).
 - [2025/04/13] 📢 We released S1-Bench dataset hosted on [Huggingface](https://huggingface.co/datasets/WYRipple/S1-Bench).
