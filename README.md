@@ -81,9 +81,9 @@ python get_acc_scores.py
 
 ## Experiment Results
 
-![](figure/exp_main.png) 
+![](figure/main_exp_new.png) 
 
-![](figure/exp_tokens.png) 
+![](figure/token_exp_new.png) 
 
 ## Citation
 If you find our work useful, please consider citing our paper:
