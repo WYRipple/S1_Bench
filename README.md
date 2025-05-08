@@ -89,9 +89,18 @@ python get_acc_scores.py
 
 ## Experiment Results
 
-![](figure/main_exp_new.png) 
+<div align="center">
+  <img src="figure/LLM_acc.png" style="width:55%; height:auto;" />
+</div>
 
-![](figure/token_exp_new.png) 
+<div align="center">
+  <img src="figure/main_exp_new.png" style="width:85%; height:auto;" />
+</div>
+
+<div align="center">
+  <img src="figure/token_exp_new.png" style="width:95%; height:auto;" />
+</div>
+
 
 ## Citation
 If you find our work useful, please consider citing our paper:
