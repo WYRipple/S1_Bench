@@ -1,3 +1,5 @@
+
+
 # S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models
 
 <div align="center">
@@ -48,7 +50,7 @@ Before running our code, download the open-source LRMs.
 | DeepSeek-R1 | DS-R1 | https://huggingface.co/deepseek-ai/DeepSeek-R1 |
 | Light-R1-7B-DS | L-R1-7B-DS | https://huggingface.co/qihoo360/Light-R1-7B-DS |
 | Light-R1-14B-DS | L-R1-14B-DS | https://huggingface.co/qihoo360/Light-R1-14B-DS |
-| Light-R1-32B-DS | L-R1-32B-DS | {https://huggingface.co/qihoo360/Light-R1-32B-DS |
+| Light-R1-32B-DS | L-R1-32B-DS | https://huggingface.co/qihoo360/Light-R1-32B-DS |
 | Light-R1-32B | L-R1-32B | https://huggingface.co/qihoo360/Light-R1-32B |
 | s1.1-7B | s1.1-7B | https://huggingface.co/simplescaling/s1.1-7B |
 | s1.1-14B | s1.1-14B | https://huggingface.co/simplescaling/s1.1-14B |
